@@ -25,7 +25,7 @@ TransformersGPT/
 │
 ├── Saved/              # Saved checkpoints and logs
 ├── Figures/            # Loss curves and model comparison plots
-└── Reports/            # Additional analyses
+└── Reports/            # Clinical texts
 ```
 
 ## Example usage
