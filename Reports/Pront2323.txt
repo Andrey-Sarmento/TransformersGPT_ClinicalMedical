@@ -1,0 +1,30 @@
+Paciente do sexo feminino, 29 anos, carga clínica estável, sem histórico de doença falciforme. Chegou à clínica ambulatorial com queixa de astenia leve e edema discreto de membros inferiores em vigência de dieta regular e atividade física habitual. Nega febre, vômitos ou sangramentos. No decorrer da anamnese, foi possível confirmar que não houve episódios prévios de internação hospitalar. O estado geral é ativo, afebril, PA 122/78 mmHg, FC 78 bpm, FR 16 rpm, peso 62 kg, estatura 1,63 m. No exame físico, notam-se mucosas conservadas, PA normal, sem dor à palpação abdominal e sem sinal de ascite. O tórax apresenta boa expansão com sons vesiculares sem ruídos anormais. OECG de acesso rápido não revelou alterações significativas.
+
+Não há evidência de doença falciforme no quadro atual;.
+
+Na história pregressa, refere-se a um único evento cirúrgico importante, descrito a seguir, com recuperação completa e sem intercorrências graves. Em relação ao histórico cirúrgico, houve uma cirurgia abdominal anterior com boa evolução clínica e sem necessidade de reoperação. A paciente faz uso de medicações habituais em doses padronizadas; não está em uso de antiplaquetários ou anticoagulantes sem indicação clara. O regime de alimentação é PO, sem restrições.
+
+A conduta cirúrgica prévia foi: colecistectomia por via laparoscópica, realizada há alguns anos, com tempo operatório previsível e sem complicações intraoperatórias. A paciente mantém seguimento com o médico da unidade há 3 anos, com avaliação nutricional e clínico regular. A evolução pós-operatória foi uma recuperação funcional rápida, com retorno às atividades diárias dentro de 2 a 3 semanas.
+
+O histórico de internações é nulo; o prontuário confirma que não houve internação prévia relevante. O suporte oncológico não foi iniciado, não há indicação de quimioterapia ou radioterapia. A paciente não apresenta sinais de infecção sistêmica ou sepse no momento da visita, e exames laboratoriais de rotina eram compatíveis com estado basal. O manejo clínico atual envolve reavaliação periódica, com monitorização de sinais vitais e glicemia capilar conforme necessidade.
+
+Nos exames de laboratório recentes, a Hb encontra-se estável, com contagem de eritrócitos dentro da faixa de referencia. O hematócrito está adequado para o sexo e idade. Os marcadores inflamatórios não sugerem infecção aguda. Os níveis de lipídeos e função renal aparecem dentro dos valores de referência para idade e sexo. A glicose de jejum está controlada, sem hipoglicemias documentadas. O tempo de protrombina e o INR permanecem na faixa normal, sem necessidade de ajuste de anticoagulação. O estado nutricional é adequado, com IMC em torno de 23 kg/m2. A paciente mantém adesão à dieta equilibrada e à prática regular de atividades físicas leves. Em relação a exames de imagem, foi solicitada ultrassonografia abdominal de rotina para avaliação de alterações estruturais; até o momento, não há indicativos de complicação cirúrgica recente.
+
+Atenção à história farmacológica: não foram observadas interações medicamentosas relevantes entre os fármacos de uso habitual e as medicações de suporte. Não há indicação de uso de quelantes de ferro no momento, e a paciente não faz uso de terapias específicas para transição sanguínea. A função renal, hepática e endócrina permanece estável, com curvas hormonais dentro da normalidade para a faixa etária. A sazonalidade de queixas é discreta, sem padrão recorrente deitis.
+
+O encéfalo mantém avaliação neurológica conservadora; não houve quedas, convulsões ou eventos neurológicos de relevância nos últimos meses. A paciente, no entanto, recebe orientações sobre sono adequado, redução de estresse e prática de exercícios de alongamento. O preenchimento de formulários clínicos é realizado com cuidado, com registro de todos os dados de autopercepção e sinais vitais fornecidos pela paciente.
+
+Plano terapêutico: manter conduta clínica conservadora com monitorização de sinais vitais, titulação de analgésicos apenas se necessário, e reavaliação clínica em 4 a 6 semanas. Não há indicação de transfusão ou terapia intensiva no curto prazo. A comunicação entre equipe multiprofissional deve permanecer fluida, com atualização de registros no prontuário eletrônico. O atendimento foi orientado a reforçar a importância da adesão às consultas de acompanhamento, eval. nutricional e avaliação laboratorial periódica.
+
+Não houve transplante de células-tronco hematopoéticas na história;.
+
+O manejo de ferro não envolve quelação neste momento, sem necessidade de agentes quelantes no quadro;.
+
+Ato contínuo de vigilância clínica sugere que a paciente permanece estável, com evolução clínica favorável e ausência de complicações até o presente momento. A comunicação com a paciente e familiares permanece clara, com explicação de sinais de alarme que justificariam retorno imediato ao serviço. A elaboração de um protocolo de acompanhamento ambulatorial está em curso, com metas de curto e médio prazo, incluindo avaliação laboratorial e reavaliação clínica.
+
+SENTENÇAS-ÂNCORA
+- Não há evidência de doença falciforme no quadro atual;.
+- O histórico não registra internações prévias;.
+- A paciente possui histórico de cirurgia; colecistectomia laparoscópica realizada;.
+- Não houve transplante de células-tronco hematopoéticas na história;.
+- Não há quelação registrada até o momento;.

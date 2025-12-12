@@ -1,0 +1,37 @@
+Paciente do sexo feminino, 44 anos, encaminhada ao pronto atendimento por queixa de fadiga discreta, dor abdominal difusa há 3 semanas e sensação de peso na pelve. História pregressa: internações anteriores relatadas, sem dados de alto custo ou gravidade recente, com alta estável ao final do acompanhamento. No check-in, a PA 118/74 mmHg, FC 78 bpm, T 37,1°C; peso 72 kg; estatura 1,65 m; IMC 26,4 kg/m². Ao exame, presença de palidez leve, mucosas claras, abdome moderadamente distendido, doloroso à palpação suave na fossa ilíaca direita, sem sinais de peritonite. O exame neurológico manteve-se sem alterações focalizadas; a afasia, se presente, não foi observada. Em termos de vias aéreas, ausculta pulmonar com ruídos respiratórios bibasilares sem secreção excessiva; coração rítmico, sem sopros. A orientação temporal e espacial estava preservada, sem sinais de confusão.
+
+S O paciente esteve internado há 6 dias para avaliação de dispneia leve e dor torácica associada a desconforto abdominal, com necessidade de monitorização clínica durante a internação;.
+
+O A história oftalmológica não revela alterações agudas; o plano hoje foca na avaliação clínica, com continuidade de exames básicos (CBC, CMP, função renal) e monitoria de hemodinâmica.
+
+A Foram solicitados CBC com diferencial, CMP, imagens clínicas conforme evolução; note-se que não houve indicação de procedimentos cirúrgicos neste momento e não há indicação de transplante de células-tronco hematopoéticas neste momento, conforme o quadro clínico atual.
+
+P Na prática atual, o manejo inclui hidratação compatível, analgesia simples e restrição a atividades de esforço; o objetivo é estabilizar a hemodinâmica, monitorar a função renal e manter vigilância de sinais de alarme.
+
+O O laudo de laboratório inicial veio com Hb em torno de 12,8 g/dL, Ht 38%, plaquetas 210 mil/mm³, INR dentro da faixa, e função renal levemente estressada por transitoriamente altas creatinina com base de 0,98 mg/dL; glicose 92 mg/dL; Na 138 mEq/L, K 4,1 mEq/L. O painel de enzimas hepáticas manteve-se estável (ALT 32 U/L, AST 29 U/L), com albumina média; sem elevações súbitas das enzimas. O resultado do CMP sugere função hepática estável para a idade, sem hiperbilirrubinemia evidente.
+
+S O paciente esteve internado há 6 dias para avaliação de dispneia leve e dor torácica associada a desconforto abdominal, com necessidade de monitorização clínica durante a internação;.
+
+O O uso de antibióticos sistêmicos não se fez necessário neste momento; a conduta terapêutica foi conservadora, com manejo sintomático e reavaliação em 48–72 h.
+
+A A função renal permanece estável, com eGFR estimado em 85 mL/min/1,73 m²; não há indicação de diálise no momento; monitorar creatinina seriada e balanço hídrico.
+
+P Encaminhamentos para acompanhamento ambulatorial em 2–4 semanas, com repetição de CBC, CMP, e avaliação de síntese proteica. Considerar acompanhamento com nutricionista para orientar a ingestão proteica e dimensões energéticas. Disponibilizar via SUS ou rede básica de saúde os exames de imagem adicionais se novos sintomas surgirem.
+
+O Constata-se que não houve measure of microalbuminúria nas análises recentes; constatação clínica aponta que não houve medida de albuminúria.
+
+O Em termos de hemocatabolismo e ferro, não houve indicação de quelação de ferro em regime crônico neste momento; nenhuma terapia de ferro foi iniciada, com a ausência de necessidade de quelação neste estágio clínico.
+
+A Em relação à prática transfusional, não participa de programa de transfusão crônica no momento; não houve indicação de eritrocito aferese nem transfusão de necessidade aguda, mantendo-se a estratégia de monitorização clínica.
+
+P Planejar continuidade de hidratação oral, monitorização de sinais vitais em casa, e retorno imediato se houver piora respiratória, dor torácica intensa ou alterações neurológicas.
+
+O Não houve histórico de AVC nem de infarto cerebral ou cardíaco, mantendo-se sem ocorrências nesses desfechos; não houve sinais de dano neurológico agudo durante a avaliação atual.
+
+P Considerando o estado funcional, manter vigilância ativa para anemias com etiologias microvasculares; manter referência a serviços de hematologia apenas se surgirem alterações hematológicas relevantes; manter comunicação com a enfermaria para atualizações de quadro clínico.
+
+O A evolução clínica permanece estável, com tendência à resolução de desconfortos e sem necessidade de intervenção cirúrgica no momento; o atendimento foi realizado com linguagem clara, objetivo e foco na prevenção de complicações.
+
+S Em síntese, o quadro atual sugere estabilidade com evolução favorável no manejo sintomático, com monitorização de função renal e hematológica, sem indicação de alterações graves.
+
+T FIM do atendimento. Reforçar no próximo retorno a necessidade de exames de imagem adicionais e, se possível, a continuidade do acompanhamento com o serviço de clínica médica.

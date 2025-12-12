@@ -1,0 +1,38 @@
+Paciente do sexo masculino, 34 anos, atendido no ambulatório de avaliação periódica. Queixa principal: fadiga há 4–6 semanas, piorando aos finais de semana, acompanhada de leve palpitação ao esforço leve. Nega febre, náusea, vômito, dor torácica ou dispneia em repouso. Refere sono adequado, ingesta regular e dieta balanceada. Ao exame, sem edema de membros inferiores, mucosas normocromicas, sem icterícia evidente. Sinais vitais estáveis PA 122/78 mmHg, FC 74 bpm, FR 16 rpm, SpO2 98% em ar ambiente. Peso estável; temperatura axilar 36,7°C. Impressão clínica: quadro compatível com cansaço funcional em contexto ambulatorial; necessidade de avaliação laboratorial para esclarecer etiologia e confirmação de alimentação de ferritina, ferrugem metabólica e função renal/EH.
+
+História clínica
+O paciente relata que, nos últimos meses, houve episódios de sono não reparador e leve indisposição matinal. Não há queixa de sangramentos agressivos, sangramento nasal, hematomas espontâneos ou piora de desempenho no trabalho. Nega uso contínuo de antinociceptivos ou anti-inflamatórios. A medicação habitual é apenas suplementação de vitamina D conforme orientação nutricional. Não há contato com familiares com doenças hematológicas aparentes. Nega uso de álcool em excesso; tabagismo não. Nega histórico de doenças crônicas conhecidas em família. O paciente não recorda uso prévio de quelação ou transfusões recentes, mantendo o foco no manejo da ferritina e da possível etiologia inflamatória sistêmica.
+
+Exames complementares
+Hemograma (Hb 11,8 g/dL; Ht 34%), VCM 88 fL; plaquetas 210 x10^9/L; RDW normal. Bioquímica Cr 0,92 mg/dL; eGFR estimado 98 mL/min/1,73 m^2; sódio 139, potássio 4,2, cloro 100; BUN 13 mg/dL; AST 29 U/L; ALT 32 U/L; albumina 4,2 g/dL. Ferro sérico 165 µg/dL; ferritina 540 ng/mL; TIBC 290 µg/dL; transferrina saturação 57%. Vitamina B12 e ácido fólico dentro de faixas normais. TSH 2,1 mIU/L. ECG sem alterações isquêmicas; sem arritmia. Urina sem proteinúria ou hematúria visível. Reavaliação clínica com foco no quadro anêmico leve e na hiperferritinemia foi solicitada. Observação: não foi incluída avaliação de UACR ou EAS com albumina neste momento, mantendo o plano ambulatorial.
+
+Avaliação
+- Hb 11,8 g/dL com ferritina elevada sugere ferritina aceitada como marcador de reserva de ferro ou inflamação aguda/crônica. Não há sinais clínicos de sangramento ativo, nem anemia grave. Função renal preservada. Foco neurocognitivo está estável, sem sinais de irritabilidade ou confusão.
+- Não há indicação de quelante de ferro neste momento. Não há registro de uso de quelante de ferro no momento.
+- Não faz parte de programa de transfusão crônica neste momento, com referência a queixas clínicas recentes estáveis. Não faz parte de programa de transfusão crônica neste momento.
+- Considerando ferritina elevada, exploramos causas inflamatórias vs sobrecarga ferro, com planejamento de monitoramento seriado e avaliação de ferritina em 6–8 semanas, se permanecer elevada.
+
+Plano e conduta
+1) Laboratório de acompanhamento em 6–8 semanas: ferritina, ferro, transferrina, Hb, Ht, CRP, VHS, função hepática (AST/ALT), ferritina de repetição para confirmar tendência. Caso ferritina permaneça elevada com queda de Hb, ampliar avaliação com índice de saturação de transferrina e possível ressonância hepática para exclusão de litíases ou doenças inflamatórias crônicas. 
+2) Controle nutricional: orientação de dieta com restrição de fontes hiperferrêmicas em alimentação, sem restrições radicais, acompanhado de orientação nutricional. 
+3) Reavaliação clínica com ênfase em sinais de infecção subaguda ou inflamatória: febre, artralgia, mialgia, linfadenopatia. 
+4) Atividades físicas moderadas indicadas, com retorno se houver piora de cansaço, tontura ou dispneia. 
+5) Encaminhamento para hematologia somente se ferritina continuar alta com queda de Hb ou presença de limitação de função.
+
+Parecer de condições comorbidades e monitoramento
+- Hb entre 11–12 g/dL, sem requerer transfusão de forma rotineira neste momento. Monitoramento sem intercorrências agudas. 
+- Cr e função renal normais; eGFR adequado para idade; hidratatação está estável. 
+- A ênfase clínica está na ferritina elevada sem evidência de lesão hepática aguda. Evoluir com nova bateria de exames e avaliação clínica de etiologias inflamatórias ou metabólicas.
+
+Observações sobre adesão e suporte
+O paciente demonstra compreensão das orientações e concorda com o retorno para reavaliação. A comunicação com a família ocorreu de forma adequada, com esclarecimentos sobre os sintomas e a necessidade de confirmação diagnóstica. O médico orienta manter boa hidratação, sono regular e registro de qualquer nova queixa, como febre persistente, calafrios, tonturas intensas ou hemorragias recentes.
+
+Resumo clínico
+- Sinais vitais estáveis, sem necessidade de internação. 
+- Anemia leve sem necessidade de intervenção transfusional imediata. 
+- Ferritina elevada com ferritina de reserva discretamente aumentada, sem confirmação de inflamação sistêmica de modo agudo. 
+- Sem indícios de desnutrição severa ou desidratação marcada. 
+- Sem indicação de quelante de ferro no momento. Não há registro de uso de quelante de ferro no momento.
+
+Observação final
+O atendimento permanece no âmbito ambulatorial com vigilância de ferritinas e marcadores inflamatórios, mantendo plano de repetição de exames e ajuste terapêutico conforme evolução clínica.

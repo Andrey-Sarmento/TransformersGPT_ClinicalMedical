@@ -1,0 +1,36 @@
+Paciente masculino, 46 anos, residente na região Sudeste, com histórico clínico estável em termos funcionais, porém com impacto hematológico relevante devido às internações prévias e ao tratamento transfusional. Ao longo do acompanhamento, não há doença falciforme no estado atual do paciente. O prontuário descreve uma trajetória clínica que se inicia com episódios agudos no hospital e culmina com manejo especializado em hematologia clínica, cirurgia prévia e monitorização de ferritina elevada associada à transfusão crônica. O tom é técnico, com vocabulário médico padrão, mesclando siglas e termos completos para manter clareza entre equipes multiprofissionais.
+
+Histórico de internações
+Houve internações diversas em enfermaria e, ocasionalmente, em sala de observação, geralmente por crises dolorosas de natureza inespecífica e por quadros respiratórios agudos. Em cada episódio, a avaliação clínica incluía exame físico focal, hemograma completo com contagem de leucócitos e plaquetas, função renal avaliada pela creatinina estimada (Cr), além de gasometria quando indicado. A necessidade de analgesia parenteral em alguns momentos foi observada, com resposta adequada à analgesia multimodal. Este relato evidencia uma continuidade entre atendimentos de rotina e internação breve, com recuperação funcional após cada episódio.
+
+Procedimento cirúrgico
+O histórico cirúrgico inclui uma colecistectomia videolaparoscópica realizada no ano anterior ao presente cuidado, como raciocínio terapêutico para sintomas abdominais recorrentes e confirmação por ultrassom de litíase biliar sem complicações coloradas. A cirurgia transcorreu sem intercorrências maiores, com tempo operador adequado, anestesia geral estável e desmame evoluindo com dieta gradualmente retomada. A documentação atual não aponta necessidade de reabertura cirúrgica nem de procedimentos adicionais no mesmo eixo anatômico.
+
+Transplante de células-tronco hematopoéticas
+Não houve transplante de células-tronco hematopoéticas (TCTH/TMO) na trajetória clínica deste paciente. Não houve indicação formal, nem contraindicação apropriada, e o registro de internações não aponta indicação adaptada para a realização de HSCT nesse momento. O histórico atual permanece sem evidência de HSCT.
+
+Terapia transfusional crônica
+A transfusão sanguínea crônica é parte do planejamento terapêutico adotado ao longo de vários anos. O regime tem sido regularmente mantido com transfusões de hemácias de dados_intervalados previamente estabelecidos, visando controle de contagem de hemácias e redução de crises associadas a eventos agudos de dor. A prática tem sido associada ao monitoramento de ferritina sérica, com tendência a valores elevados em função da sobrecarga de ferro decorrente das transfusões repetidas. Em função disso, a equipe clínica tem acompanhado ferritina e monitorado parâmetros cardiopulmonares quando necessário.
+
+Albuminúria e avaliação renal
+Não houve medição sistemática de albuminúria ou avaliação de relação albumina/creatinina durante o seguimento recente; a documentação aponta ausência de coleta de dados nessa linha no último ciclo de consultas. A ausência de medida de albuminúria está refletida na anamnese clínica e nos registros laboratoriais acessíveis, sem indicação de ACR elevada no momento atual.
+
+Exames laboratoriais e monitorização
+Os exames de rotina costumam incluir hemograma, perfil metabólico básico, creatinina, eletrólitos, e ferritina como marcador da sobrecarga de ferro. Observa-se tendência à ferritina elevada, compatível com o histórico de transfusão crônica, porém sem evidência de manifestações orgânicas agudas de sobrecarga de ferro que exigissem intervenção de quelantes até o presente momento. O acompanhamento hematológico envolve também avaliação de função hepática e marcadores inflamatórios quando clinicamente indicado, com stabilização de parâmetros ao longo das últimas consultas.
+
+Abordagem farmacológica atual
+O regime medicamentoso envolve analgésicos conforme necessidade, anti-inflamatórios não esteroidais de uso breve e, em algumas ocasiões, antibióticos quando indicado por clínica ou radiologia. Não há indicação atual de quelação de ferro no momento, e a equipe permanece atenta à necessidade de ajustes terapêuticos conforme evolução clínica. O paciente recebe orientações sobre adesão terapêutica, vacinação atualizada e medidas de prevenção de infecção, com ênfase na monitorização de sinais de alerta.
+
+Aspectos funcionais e qualidade de vida
+O paciente mantém autonomia para atividades diárias, com capacidade de locomoção preservada e participação social estável. Não houve necessidade de internação em UTI nem de suporte ventilatório ou hemodinâmico por tempo prolongado. A rede de apoio familiar está presente, e o elenco de serviços de saúde inclui acompanhamento com hematologia, cirurgia geral, clínica médica e enfermagem de suporte. As consultas são organizadas de forma a permitir continuidade do programa de transfusão, vigilância de parâmetros laboratoriais e avaliação de eventuais complicações associado à sobrecarga de ferro.
+
+Plano de cuidado e acompanhamento
+- Continuar com o programa de transfusão crônica, monitorando hemoglobina, ferritina e função cardíaca por meio de ecocardiograma quando necessário.
+- Reforçar a adesão à monitorização de ferritina, com avaliação periódica da necessidade de estratégias adicionais para manejo da sobrecarga de ferro, respeitando a diretriz institucional.
+- Manter vigilância clínica para sinais de complicações renais, hepáticas ou musculoesqueléticas, ajustando o atendimento conforme surgirem novas intercorrências.
+- Reavaliar a necessidade de avaliação da albuminúria periodicamente, alinhando com clínico e nefrologista se surgirem indicações clínicas.
+- Confirmar o uso de profilaxias e vacinas de rotina, com atualização conforme esquema vigente.
+- Considerar extensão do planejamento cirúrgico apenas se novos sintomas abdominais surgirem, mantendo-se o histórico de cirurgia prévia como referência para planejamento de procedimentos futuros.
+
+Resumo contextual
+O quadro clínico descrito é compatível com um paciente que não tem doença falciforme, já apresentou internações diversas, passou por uma cirurgia prévia, não realizou transplante de células-tronco hematopoéticas, mantém terapia transfusional crônica com monitoramento de ferritina, e não teve medição recente de albuminúria. O registro reflete uma abordagem integrada entre hematologia, cirurgia e clínica médica, com foco na estabilidade clínica, na qualidade de vida e na prevenção de complicações associadas à transfusão crônica.

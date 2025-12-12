@@ -1,0 +1,23 @@
+- O paciente não tem doença falciforme. 
+- Houve procedimento cirúrgico no histórico do paciente. 
+- Não houve transplante de medula óssea. 
+- O paciente utiliza quelantes de ferro como parte do manejo de ferro excedente. 
+- Foram realizadas medidas de albuminúria na urina para avaliação renal. 
+- O histórico inclui episódio de AVC no passado.
+
+- O prontuário descreve estado hemodinâmico estável na admissão atual, com pressão arterial dentro da faixa de referência para a idade, frequência cardíaca regular e temperaturas compatíveis com o ambiente clínico. 
+- Observa-se função renal estável nos controles de rotina, sem alterações agudas de creatinina ou de clearance estimado que justifiquem intervenção imediata. 
+- O paciente recebe monitorização contínua de sinais vitais, com registro de saturação de oxigênio adequada em repouso e durante atividades simples. 
+- A equipe multidisciplinar documenta adesão a protocolos de infecção hospitalar, com higienização adequada das mãos e uso correto de equipamentos de proteção individual. 
+- Os exames laboratoriais de rotina mostram hemoglobina dentro de faixas esperadas para o quadro clínico, sem necessidade de ajuste agudo de ferrolactose ou de outros precursores metabólicos. 
+- A glicemia de monitorização estável, com valores entre os limites normais para o estado clínico atual, sem hipoglicemias profundas no período observado. 
+- O equilíbrio ácido-básico permanece próximo ao neutro, com lactato dentro do intervalo esperado para a condição clínica reportada. 
+- A função hepática é monitorada, sem sinais de alterações agudas de transaminases ou de fosfatase alcalina durante a internação, mantendo-se estável ao longo dos dias. 
+- A diurese tem mostrado produção constante, com débito urinário compatível com a ingestão, e sem sinais de retenção hídrica relevante. 
+- Foi efetuada avaliação de estado nutricional, com peso estável e ingestão calórica adequada ao plano terapêutico, visando manter reservas energéticas adequadas. 
+- A equipa de enfermagem realizou reposição de fluidos conforme protocolo vigente, com observação de sinais de sobrecarga ou desidratação durante a evolução clínica. 
+- As informações deeroidais foram compiladas de maneira a fornecer um registro cohesivo do curso clínico, facilitando futuras revisões por profissionais de diferentes áreas. 
+- O paciente apresenta tolerância aos dispositivos de suporte atuais, sem queixas novas de dor ou desconforto significativo relacionados às intervenções executadas. 
+- Os objetivos de tratamento no momento incluem manter vigilância clínica, otimizar o manejo de ferro e monitorar a função renal e cardíaca, com planos de reavaliação diária pela equipe. 
+- O prontuário ressalta a continuidade do cuidado com ênfase na comunicação entre serviço de clínica médica, cirurgia, nefrologia e enfermagem para assegurar coordenação entre as fases de avaliação, intervenção e alta prevista. 
+- A documentação fecha com uma nota de que todas as intervenções realizadas foram consistentes com as diretrizes clínicas em vigor, assegurando qualidade e segurança no atendimento ao paciente.

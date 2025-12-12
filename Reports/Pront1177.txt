@@ -1,0 +1,17 @@
+O paciente de 45 anos, residente no Sudeste, compareceu à consulta no dia 15 de agosto de 2023. Durante a avaliação inicial, relatou cansaço frequente e episódios de dor articular. class:tem_doenca_falciforme O paciente apresenta histórico de doença falciforme, também conhecida como anemia falciforme, condição que tem sido monitorada com exames periódicos.
+
+Em relação ao histórico de internações, o paciente mencionou que nunca teve internação hospitalar nos últimos anos. class:teve_internacoes As visitas ao hospital se mantiveram restritas a consultas agendadas e monitoramentos de rotina.
+
+No que concerne a procedimentos cirúrgicos, o paciente ainda não foi submetido a qualquer tipo de cirurgia. class:procedimento_cirurgico Não há relato de cirurgias prévias nem indicação de operações futuras.
+
+É relevante destacar que o paciente passou por um transplante de medula óssea (TMO) bem-sucedido em 2020. class:transplante_medula_ossea O acompanhamento pós-transplante tem incluído o uso de imunossupressores para garantir a estabilidade do enxerto.
+
+O manejo do excesso de ferro devido a múltiplas transfusões de sangue tem sido realizado através do uso de quelantes de ferro, especificamente deferasirox, uma administração diária. class:quelantes_de_ferro A terapia visa controlar os níveis de ferritina, que frequentemente ultrapassam 1500 ng/mL.
+
+O paciente também participa de um programa de terapia transfusional crônica. class:terapia_transfusional_cronica Esse esquema inclui trocas regulares de hemácias para minimizar as complicações associadas à doença falciforme.
+
+Adicionalmente, não há histórico de acidente vascular cerebral ou infarto. class:avc_infarto O paciente mantém o acompanhamento com cardiologista para prevenção de eventos cardiovasculares.
+
+Foi realizada uma urinálise rotineira durante a última consulta, mas não incluía a medição de albumina. class:urinalise_com_albumina_medida O exame visou monitorar outros parâmetros, como acidez e presença de cristais.
+
+Considerando a condição geral do paciente, ele foi orientado a seguir uma dieta balanceada rica em frutas e vegetais, além de manter a rotina de exercícios leves recomendados pelo fisioterapeuta.

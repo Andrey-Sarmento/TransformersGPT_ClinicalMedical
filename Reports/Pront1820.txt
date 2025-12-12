@@ -1,0 +1,39 @@
+Paciente do sexo masculino, 29 anos, encaminhado ao serviço de clínica médica de um hospital de referência no sudeste, para avaliação de quadro crônico inespecífico com fadiga, dispneia de esforço e alterações laboratoriais recentes. O paciente refere cansaço progressivo há cerca de 3 meses, piora nas últimas semanas, sem febre nem dor torácica típica. História prévia de alergias não específicas, uso social de álcool ocasional e tabagismo não. Ao exame inicial, o estado geral é estável, boa perfusão periférica, linfonodos não palpáveis, abdome sem hepatomegalia evidente, sem edema de membros inferiores. FC 78 bpm, PA 118/74 mmHg, FR 16 ipm, temperatura axilar 36,8 C. Sinais vitais dentro da faixa.
+
+HISTÓRIA E evolução
+Desde a admissão, o paciente traz um quadro insidioso de queda de reserva funcional. O relato clínico indica que já havia apresentado internações anteriores, com quadro de fadiga intensa e necessidade de investigação clínica extensa em serviços hospitalares distintos. História de internações prévias documentada. O prontuário anterior não está disponível na íntegra, porém o paciente não relata cirurgias recentes nem procedimentos invasivos relevantes nas últimas visitas. Mantém-se em observação com monitorização clínica contínua, incluindo ECG de 12 derivações e avaliação de função renal após a coleta de sangue. O histórico familiar é disregulado, sem antecedentes de doenças sistêmicas graves associadas.
+
+EXAME FÍSICO E PLANOS INICIAIS
+EXAME FÍSICO geral: aparência moderadamente nutrida, sem palidez extrema ou icterícia aparente. Ausência de dor focal à palpação abdominal, ruídos hidroaéreos presentes. Hemodinâmica estável; não há sinais de hipotensão ou hipertensão excessiva. No sistema respiratório, leve aumento de esforço respiratório com respiração regular, saturação de oxigênio em 97% em ambiente ambiente; ausculta pulmonar sem ruídos adventícios significativos. Exame cardiovascular sem sopros audíveis; ritmo sinusal, tempo de enchimento adequado. Extremidades sem edema, sensibilidade preservada, força de membros superiores e inferiores preservadas.
+
+EXAMES COMPLEMENTARES
+Hemograma recente aponta Hb em 10,8 g/dL, Ht 32%, VCM 84 fL, RDW levemente elevado; plaquetas 210 mil/mm³. Química com creatinina 0,9 mg/dL, ureia estável, sódio 141 mEq/L, potássio 4,2 mEq/L. Ferritina dentro de faixa compatível com reserva moderada; proteína C reativa levemente elevada sem sinais de infecção ativa. EAS sem alterações relevantes no momento, com função renal preservada. Eletrocardiograma mostra ritmo sinusal, sem isquemia aguda. Radiografia de tórax sem alterações apreciáveis. O atendimento multidisciplinar envolve ajuste nutricional, manejo sintomático e planejamento de investigação diagnóstica adicional.
+
+CONTINUIDADE DO PERFIL CLÍNICO E AXES DIAGNÓSTICOS
+Ao balancear os dados, a hipótese diagnóstica principal envolve anemia de etiologia inespecífica com quadro de fadiga sob monitorização cuidadosa. O quadro é compatível com deficiência de construção sanguínea de natureza leve a moderada, sem sinais de hemólise marcante ou de infecção ativa. Não há evidência clínica de descompensação cardíaca ou renal aguda, e a função pulmonar permanece relativamente estável para o estágio atual. A conduta envolve correção de fatores de risco cardiovascular com dieta adequada, hidratação apropriada e reavaliação laboratorial programada para 2 a 4 semanas.
+
+EVIDÊNCIAS CLÍNICAS
+História de internações prévias documentada.
+
+INTEGRAÇÃO DO PROTOCOLO E CONDUTA
+Não há indicação de intervenção cirúrgica neste momento. Não houve registro de cirurgia.
+
+CONDUTA FARMACOLÓGICA E PERFIL TERAPÊUTICO
+Na linha atual de manejo, não há indicação de quelação de ferro ou de terapia transfusional crônica no regime do paciente. O regime clínico foi mantido com monitorização clínica, ajuste de alimentação e suplementação vitamínica conforme necessidade. Não está no programa de transfusão crônica,, e não há uso atual de quelantes de ferro.
+
+REAVALIAÇÃO E PROPOSTA DE ACOMPANHAMENTO
+A cada 2 a 4 semanas, reavaliar hematologia com novo hemograma completo, ferritina e ferróp, além de microalbuminúria em ureia/creatinina para acompanhar função renal. Caso haja piora de fadiga, tontura ou queda de Hb significativa, ampliar a investigação com B12, folato, ferritina, reticulócitos e possível avaliação endocrinológica de ressintetização. Recomenda-se manter hidratação adequada, evitar fármacos nefrotóxicos e reforçar a adesão a dieta balanceada. O seguimento clínico deve permanecer em regime ambulatorial com consultas presenciais mensais até estabilização dos parâmetros hematológicos.
+
+EQUIVALÊNCIA E RASTREIO EPIDEMIOLÓGICO
+No âmbito da avaliação clínica, não há evidências ainda de efeitos neurológicos agudos ou de eventos cerebrovasculares em curso; manter vigilância psicossocial e acompanhamento de redes de suporte. O recém-chegado ao serviço não reporta uso de medicações imunossupressoras ou padrões de diagnóstico que indiquem transtornos sistêmicos graves. O contexto atual sugere manejo conservador com monitorização seriada de laboratório e ajuste terapêutico conforme resposta.
+
+SUSTENTABILIDADE DO PLANO E PARCERIAS ASSISTENCIAIS
+Equipe de enfermagem, nutrição clínica e medicina interna mantêm comunicação contínua com o paciente, reforçando orientação sobre alimentação hipercalórica com foco em ferro e vitaminas, planejamento de retestagem laboratorial e indicação de retorno imediato em caso de piora de sintomas. O objetivo é alcançar melhora clínica estável com Hb entre 11 e 12,5 g/dL nos próximos meses, sem necessidade de intervenções invasivas.
+
+EVIDÊNCIAS FINAIS
+Não houve registro de cirurgia,, e o paciente permanece em monitorização. Não está em terapia transfusional crônica,, e não utiliza quelantes de ferro no momento.
+
+AVALIAÇÃO DO RISCO E PROGNÓSTICO
+O prognóstico é moderado, condicionado pela resposta hematológica ao tratamento conservador e pela adesão ao plano nutricional e de hidratação. Não há indicação de intervenção radiológica ou cirúrgica agressiva. A equipe continuará acompanhando o paciente para ajuste terapêutico e detecção precoce de alterações laboratoriais.
+
+Conclusão: o quadro clínico atual é estável, com manejo conservador. O paciente compreende o plano de acompanhamento e concorda com as estratégias propostas. Situação clínica compatível com o que foi descrito, sem necessidade de mudanças emergentes no momento.

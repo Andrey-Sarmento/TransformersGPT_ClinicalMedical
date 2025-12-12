@@ -1,0 +1,23 @@
+Paciente adulto, em acompanhamento hematológico, comparece para consulta de rotina no serviço de clínica médica hospitalar. O histórico clínico recente inclui transplante de medula óssea e programa de transfusão crônica, com monitoramento periódico de ferritina, função renal e hematopoiese. A queixa atual é inespecífica: leve fadiga nas atividades diárias, sem piora súbita de astenia, sem febre ou dor significativa. O estado geral é estável, pele sem ictére, mucosas hidratadas, pressão arterial dentro da faixa de meta e peso estável em relação aos últimos meses. O objetivo da consulta é revisar o manejo de ferro, a dinâmica da imunossupressão e a vigilância de complicações a longo prazo associadas ao TMO, bem como o estado de microalbuminúria no contexto de terapia transfusional crônica.
+
+História de transplante de medula óssea (TMO) realizada, com fase de imunossupressão estável e monitorização clínica frequente;.
+
+Não houve internações anteriores registradas no prontuário;.
+
+Não houve procedimento cirúrgico realizado até o momento;.
+
+Observa-se ferritina elevada nos exames de rotina, com ferritina sérica próxima ou acima de 1000 ng/mL em serializações, sugerindo sobrecarga de ferro decorrente da transfusão crônica. O ajuste de manejo de ferro é considerado, com avaliação de quelação caso haja indicação clínica adicional ou falha terapêutica. O restante do perfil bioquímico está estável, com creatinina e eGFR preservados, e sem sinais de insuficiência renal aguda. A MN (morfologia) demonstra hematopoiese estável para idade e sexo, com contagem de plaquetas flutuante e hemoglobina persistente dentro da faixa de manejo, sem necessidade de transfusão emergencial no momento.
+
+Relação albumina/creatinina (ACR) elevada em EAS recente, compatível com microalbuminúria;.
+
+O programa de transfusão crônica permanece ativo, com ferritina elevada e ajuste de manejo de ferro conforme protocolo institucional;.
+
+Não se observa indicação de AVC/infarto agudo nos últimos meses, porém o histórico refere evento vascular cerebral prévio com infarto cerebral, o que orienta a vigilância neurológica periódica e reabilitação quando cabível;.
+
+Na avaliação atual, o estado neurológico é estável, com resposta motora adequada aos estímulos, sem alterações difusas de linguagem ou cognição no momento. O paciente apresenta adesão ao esquema imunossupressor, com monitorização de níveis quando necessário e ajuste de dose conforme tolerância clínica. A alimentação está balanceada, com ingestão de proteína suficiente e controle de sódio. Em termos de atividades diárias, houve leve melhora na tolerância ao esforço físico ao longo das últimas semanas, apesar de cansaço residual.
+
+O plano envolve continuidade da imunossupressão com ajuste fino de glicocorticoides ou calcineurínicos, conforme protocolo institucional e resposta clínica. Reforça-se a necessidade de monitorar ferritina, função renal, proteína C-reativa e exames de urina a cada 4–8 semanas, ajustando a conduta conforme evolução clínica. A equipe de enfermagem orienta sobre a adesão a exames de rotina e à dieta com moderação de sódio, mantendo hidratação adequada para suporte renal e pressão arterial estável. Não há indicação atual de intervenção cirúrgica ou internação iminente.
+
+Atenção ao seguimento multidisciplinar: hematologia, nefrologia e rehab neuromotora devem manter gargalos de cuidado por meio de ida a consultas regulares, com avaliação de ferritina e de UACR (ou ACR) e reforço de medidas preventivas para complicações associadas ao transplante. O paciente permanece orientado a buscar assistência imediata se houver piora súbita do estado geral, febre, sangramento ou sinais de infecção, que podem comprometer o estado de imunossupressão.
+
+Este prontuário mantém a coerência temporal com o histórico de transfusão crônica e TMO, e reforça a estratégia de manejo de ferro com monitorização contínua, além da vigilância de microalbuminúria por meio de EAS com albumina. O enfoque clínico continua ser a manutenção do equilíbrio entre imunossupressão, prevenção de infecções oportunistas e controle de sobrecarga de ferro, com metas de manter estabilidade hemodinêmica, função renal preservada e qualidade de vida compatível com o território clínico do paciente.

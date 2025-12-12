@@ -1,0 +1,33 @@
+Paciente do sexo masculino, 49 anos, encaminhado ao serviço de hematologia de hospital regional para avaliação de quadro crônico com queda gradual de reserva funcional. O regime de cuidado atual inclui consultas ambulatoriais desde o início da década, com adesão irregular aos acompanhamentos, mas sem histórico de falha terapêutica reconhecida. Descrição inicial: apneia noturna leve, peso estável, alimentação regular e ausente de febre ou sudorese noturna nas últimas semanas. O paciente refere cansaço matinal e pouca tolerância ao esforço moderado, sem dor torácica ou dispneia grave em repouso. Exame físico revelou palidez discreta de mucosas, sem visceromegalias palpáveis; frequência cardíaca regular, sem rubor ou lesões cutâneas. O estado geral é estável, afebril, comunicação coerente e orientado no tempo e no espaço.
+
+Na linha temporal, a trajetória clínica foi marcada por episódios de admissão hospitalar no passado, com recuperação adequada. A história de internações anteriores está documentada.
+
+Laboratoriais de rotina em tema de hemograma mostraram Hb em torno de 11,8 g/dL, Ht próximo de 34%, plaquetas dentro do intervalo esperado para faixa etária, leucócitos normais. Perfil bioquímico com glicemia de jejum sem alterações relevantes, creatinina estável e ureia dentro dos padrões. Marcadores inflamatórios sem elevação significativa; VSG/CRP sem dados de infecção/entes. Sinais de regeneração eritrocitária com reticulócitos moderadamente elevados, sugerindo resposta medular a algum tipo de desafio hemolítico ou inflamatório faseado. O cálculo de ferritina encontra-se levemente elevado, sugerindo reserva de ferro adequada, sem evidência de deficiência aguda. Diante desse conjunto, a conduta clínica enfatiza a vigilância hematológica com conduta conservadora, sem iniciar terapia de alto risco de imediato.
+
+Foi realizada cirurgia prévia descrita em prontuário antigo, com boa recuperação pós-operatória e ausência de complicações relevantes. Foi realizada cirurgia prévia.
+
+Para monitoramento renal e metabólico, foi solicitada avaliação de função urinária de longa data. A urina coletada no último mês foi submetida a EAS com albumina, com detecção de variação que sugere elevação de albumina na urina. EAS com albumina medida confirmou elevação da albumina na urina. A relação albumina/creatinina (ACR) não foi detalhadamente explorada neste relatório, mas os dados indicam necessidade de monitoramento renal periódico e ajuste de dieta/hipertensão, se presente. O foco permanece na proteção renal, com planos de reavaliação em 6 a 8 semanas.
+
+No âmbito terapêutico, não constam informações de transfusões crônicas nem de quelantes de ferro sendo utilizadas no momento. A presença de condições que exigem suporte transfusional crônico não está documentada, e não há prescrição de quelantes de ferro neste momento. terapias transfusionais crônicas não foram iniciadas: sem informação. Assim, o plano atual privilegia revisão clínica sob acompanhamento interdisciplinar sem alterações agressivas.
+
+O histórico de intervenções relevantes para o sistema hematológico incluiu ausência de transplante de medula óssea. Não houve transplante de medula óssea.
+
+A linha de cuidado atual não se associa a diagnóstico de evento vascular cerebral ou infarto, e não há registradas evidências de acidente vascular cerebral ou infarto até o momento neste seguimento recente. Não há registro de AVC/infarto: sem informação.
+
+O paciente descreve tolerância estável ao tratamento preventivo, sem queixas de sangramento ativo ou anemia sintomática marcada. O exame neurológico permanece sem déficit focal; a função cognitiva vem sendo monitorada de forma rotineira, sem alterações de linguagem ou percepção.
+
+A abordagem multidisciplinar envolve nutricionista, fisioterapeuta e enfermeira de ambulatório para educação sobre adesão ao plano terapêutico, reavaliação de exames de urina e função renal, além do monitoramento de ferritina e reservas de ferro em intervalos programados. O objetivo é manter estabilidade clínica com intervenção mínima, preservando a qualidade de vida e a capacidade funcional.
+
+Ao longo de toda a narrativa, observa-se que o quadro clínico do paciente se mantém dentro de parâmetros estáveis. Em termos de investigação, o time clínico continua atento a variações na contagem de Hb, evolução da albuminúria e possíveis sinais de comorbidades renais. A comunicação com o paciente enfatiza sinais de alerta, como fadiga extrema, desânimo súbito, dor torácica ou edema preferencial dos membros inferiores, com instruções claras de retorno imediato ao pronto socorro se tais manifestações surgirem.
+
+A documentação de sequência de eventos é mantida com cuidado, incluindo o registro de internações anteriores, o que orienta o raciocínio terapêutico atual. O paciente permanece sob monitoramento clínico periódico, com ajustes finos no estilo de vida e na alimentação para reduzir o risco de piora metabólica. O objetivo é manter a estabilidade clínica sem necessidade de procedimentos invasivos adicionais no curto prazo, mantendo a equipe vigilante para qualquer sinal de transformação clínica.
+
+Plano:
+
+- Reavaliação hematológica em 4 a 6 semanas com hemograma completo, ferritina, ferro sérico e B12, se pertinente.
+- Controle de albuminúria com nova coleta de EAS com albumina em 6 a 8 semanas, acompanhada de UACR.
+- Monitorização de função renal, creatinina e clearance, com ajuste de dieta e hipertensão se presente.
+- Continuidade da fisioterapia respiratória e mobilização funcional, visando manter aptidão física.
+- Avaliação de necessidade de abordagem cirúrgica adicional apenas mediante indicação clínica clara, preservando o histórico de cirurgia prévia.
+
+Ao encerrar esta seção de acompanhamento, o estado geral permanece estável, e o paciente foi orientado quanto aos próximos passos do plano terapêutico. A equipe reforça o compromisso com a qualidade do cuidado, a comunicação clara entre paciente e profissionais e o registro cuidadoso de cada evolução clínica para assegurar a coerência entre a prática clínica e as metas de saúde a longo prazo.

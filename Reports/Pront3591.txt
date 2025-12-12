@@ -1,0 +1,23 @@
+Paciente masculino, adulto, encaminhado à observação clínica com queixa de mal-estar geral há 24 horas, sem febre ou dor localizada de grande intensidade. Sinais vitais estáveis no momento da avaliação PA 126/82 mmHg, FC 75 bpm, FR 16 ipm, SpO2 98% em ar ambiente. Peso 70 kg, estatura 1,72 m. O exame físico foi pouco comprometido, com abdomen sem defesa e sem sinais de peritonite; ausculta pulmonar sem crepitação. O objetivo inicial é esclarecer etiologia inespecífica da mal-estar, manter hidratação e monitorização clínica.
+
+História pregressa: paciente sem diagnóstico de doença relevante. Tabagismo não descrito como ativo; uso etanol esporádico. Não há doença falciforme confirmada. Não há histórico conhecido de doença metabólica grave ou neoplasia. Ao exame neurológico, rotina conservadora; sem déficit focal evidente no momento.
+
+Exames básicos realizados na admissão: hemograma com Hb 13,7 g/dL, Ht 40%, leucócitos 6,8 x10^3/µL, plaquetas 213 x10^3/µL. Perfil bioquímico com creatinina 0,9 mg/dL, ureia 14 mg/dL, Na 140 mEq/L, K 4,1 mEq/L, glicemia 92 mg/dL. Fosfatase alcalina e transaminases dentro de limites. A função renal aparenta estável, sem elevação de lactato. EAS não solicitado neste momento, dada a natureza clínica ambígua da queixa. ECG de linha basal sem alterações isquêmicas. Radiografia de tórax sem edema ou infiltrados.
+
+Durante a evolução observou-se boa resposta à hidratação simples IV e analgesia de baixo impacto; não houve necessidade de intervenção cirúrgica ou procedimento invasivo até o momento. Não houve relato de alterações que sugerissem intoxicação medicamentosa ou apendicite, e a vigilância clínica permanece com foco em diagnóstico diferencial de etiologias virais ou gastrointestinais inespecíficas. Não houve necessidade de exames de imagem adicionais neste estágio, mantendo-se a conduta observacional com reavaliação de sinais vitais a cada 6 a 8 horas.
+
+Na evolução clínica, não houve AVC/infarto, conforme avaliação neurológica e cardiológica. Observação: o quadro permanece estável, com resolução parcial de ideia de mal-estar apenas com medidas de suporte. Não há evidência de descompensação cardíaca, nem de complicação respiratória, mantendo-se saturação adequada. Não houve indicação de transfusão de hemoderitos ou de uso de fármacos antitrombóticos na vigência inicial.
+
+Plano terapêutico e conduta:
+- Hidratação IV com solução fisiológica em regime conservador; monitorização diária de peso e diurese. 
+- Analgesia criteriosa: paracetamol 1 g a cada 6 horas quando necessário; evitar opiáceos em demasia para não mascarar sinais/subsistemas. 
+- Nutrição oral incentivada assim que possível, com dieta normal fracionada. 
+- Monitorização laboratorial repetida em 12 a 24 horas para evolução hematológica e bioquímica; eventual monitorização de enzimas pancreáticas se quadro evoluir com dor abdominal. 
+- Vigilância de sinais de alarme: dor torácica, dispneia, confusão, febre >38,5°C, vômitos persistentes. 
+- Educação do paciente sobre retorno precoce e orientação para levar acompanhante caso haja alterações.
+
+Acompanhamento multidisciplinar: a equipe de enfermagem realizou monitorização contínua de sinais vitais, com registro de consumo hídrico e diurese; a nutrição/assistência social planeja continuidade de dieta conforme tolerância; a farmacologia manteve apenas medicações de uso tópico e analgésicos simples. O atendimento foi conduzido com tom técnico, porém com linguagem acessível, privilegiando a compreensão do paciente e de seu familiar.
+
+Notas finais de alta provisória: a condição clínica se manteve estável ao longo de 24 horas; o plano de alta deverá considerar retorno caso haja piora de dor, febre, tontura ou qualquer sintoma novo. O resultado de exames de imagem ou de rotina não indicou necessidade de intervenção adicional neste momento, e a monitorização ambulatorial pode ser mantida pela rede básica, com orientação para retorno em até 48 horas caso haja piora.
+
+Não houve qualquer indício de complicação clínica grave neste curto período de observação. O paciente permanece com orientação para hidratação preservada, alimentação adequada e retorno imediato se surgirem novos sintomas. A comunicação com o familiar foi realizada, reforçando que a conduta é de observação clínica e suporte, sem necessidade de procedimentos invasivos no momento.

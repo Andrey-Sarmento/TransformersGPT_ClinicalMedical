@@ -1,0 +1,11 @@
+O paciente masculino, 34 anos, residente em uma cidade do interior, comparece à clínica para acompanhamento. Durante a avaliação inicial, relatou episódios recorrentes de febre e dor nos ossos que persistem desde a infância. Exame físico revelou esplenomegalia moderada e icterícia leve. Exames laboratoriais prévios indicaram hemoglobina compatível com anemia falciforme, com certeza diagnóstica definida através de eletroforese de hemoglobina. class:tem_doenca_falciforme
+
+Historicamente, o paciente já foi internado em diversas ocasiões devido a crises vaso-oclusivas, sendo a última internação há cerca de seis meses por uma crise dolorosa de alta intensidade. class:teve_internacoes O histórico revela a ausência de qualquer tipo de cirurgia, fato confirmado por seu prontuário médico desenvolvido ao longo dos anos. class:procedimento_cirurgico
+
+Há dois anos, foi submetido a um transplante de medula óssea (TMO) como tentativa terapêutica, após avaliação multidisciplinar, com posterior seguimento de terapia imunossupressora que segue sob monitoramento. class:transplante_medula_ossea Desde a realização do TMO, o paciente não teve complicações significativas, exceto por infecções oportunistas leves que foram prontamente manejadas.
+
+O paciente encontra-se atualmente em um programa de hipertransfusão. Este tratamento tem contribuído para a melhora dos níveis de hemoglobina, reduzindo a frequência de crises dolorosas e, desse modo, melhorando sua qualidade de vida geral. class:terapia_transfusional_cronica Associado a isso, o paciente faz uso de quelantes de ferro, especificamente deferasirox, para controle da sobrecarga de ferro secundária às transfusões. class:quelantes_de_ferro
+
+Revisão de sintomas e avaliações neurológicas não identificaram indícios prévios de AVC ou outras condições neurológicas significativas. class:avc_infarto Neste momento, não foram realizados exames que mensurassem albumina na urina do paciente, sem qualquer histórico documentado de microalbuminúria.
+
+O paciente continua sob acompanhamento regular no setor de hematologia de uma instituição universitária, recebendo cuidados multiprofissionais que incluem fisioterapia e apoio psicológico. Sua adesão ao tratamento é satisfatória, e ele participa de grupos de apoio locais, o que contribui positivamente para a adesão ao tratamento e qualidade de vida.

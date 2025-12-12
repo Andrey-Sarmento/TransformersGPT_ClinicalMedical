@@ -1,0 +1,29 @@
+Paciente do sexo masculino, 42 anos, encaminhado ao setor de hematologia de um hospital de referência do Sudeste, com acompanhamento crônico de condições hematológicas complexas. O objetivo da consulta atual envolve a revisão de eventos clínicos passados, monitoramento de ferritina, função renal e avaliação de risco cardiovascular neurovascular. Iniciou-se a linha de cuidado com foco em manutenção de Hb estável, controle de ferro e vigilância infecciosa; todos os itens foram discutidos com o paciente e familiares, que colaboram ativamente no plano terapêutico. Ao longo do atendimento, a equipe integrou dados de vários períodos, incluindo internações anteriores, cirurgias prévias, transplante de células-tronco hematopoéticas (HSCT) e manejo de ferro por quelação. Em cada etapa, registraram-se medidas hemodinâmicas, laboratoriais e de imagem, bem como a evolução clínica.
+
+Historico de internação na enfermaria de hematologia ocorreu no último ciclo de admissões, com desfecho clínico estável ao alta, e o registro de eventos dolorosos que demandaram analgesia parenteral durante a vigência da internação. Historico de internação prévia na enfermaria de hematologia;.
+
+No que tange ao procedimento_cirurgico, o registro indica intervenção cirúrgica prévia relevante: colecistectomia videolaparoscópica realizada sem intercorrências significativas, com recuperação adequada e monitorização pós-operatória sem necessidade de reoperação. Cirurgia de colecistectomia realizada;.
+
+O transplante_medula_ossea aparece no histórico com HSCT já realizado há alguns anos, seguido de fase de imunossupressão, vigilância de GVHD leve e retorno às sessões de consultório hematológico com boa adesão terapêutica. Transplante medula óssea (HSCT) realizado em fases anteriores;.
+
+Sobre terapias de quelantes de ferro, destaca-se a quelação com deferasirox iniciada há aproximadamente 18 meses, diante de ferritina persistentemente elevada e ferritose hepática leve. Quelação com deferasirox iniciada;.
+
+A relação de urina e albumina medida está descrita com ausência de albuminúria significativa na última avaliação de EAS, com relação albumina/creatinina (ACR) dentro de faixa normal para o seguimento. EAS sem albumina detectada na última avaliação;.
+
+Na esfera transfucional crônica, embora o registro seja parte do histórico clínico, o presente prontuário não detalha um programa ativo de transfusão crônica no momento da consulta; permanece em monitoramento, sem alterações agudas no manejo de transfusões, com foco na função visualizada e no controle de ferro. (sem informação sobre terapia_transfusional_cronica). 
+
+O episódio AVC/infarto pode ser rastreado no histórico recente, associado a quadro vascular cerebral compatível com o padrão de doença de base com envolvimento de microvasculatura cerebral, com recuperação parcial e reabilitação em curso. Episódio de AVC/infarto cerebral ocorrido, com recuperação parcial;.
+
+Ao exame físico, o paciente apresenta coloração pálida moderada, mucosas hidratadas, sem edema periférico evidente. O peso tem ganhado variação sazonal, e a pressão arterial manteve-se dentro da meta, com pequenas flutuações durante o dia. O abdome é plano, sem defesa ou organomegalia à palpação. O período de vigência clínica é estável, com entrevistas que destacam adesão terapêutica consciente e entendimento dos riscos associados aos eventos citados. Laboratoriais de rotina mostraram Hb em torno de 9,8 g/dL, Ht próximo de 29%, witte celular 6,2 mil/uL, plaquetas estáveis em torno de 210 mil/uL. Cr 0,9 mg/dL, eGFR estimado próximo a 95 mL/min/1,73 m²; ferritina elevada, com valores próximos de 1.200 ng/mL. TMO prévio reforça a importância da monitorização imunológica, com tacrolimo/sirolimus em uso intermitente, sob ajuste com base nos níveis plasmáticos. O quadro geral sugere necessidade de continuidade na vigilância de ferro, função renal está estável e controle de eventos vasculares.
+
+O manejo do ferro segue com ajuste de dose de deferasirox conforme ferritina e evolução de doxificação hepática leve, mantendo a monitorização de transferrinas e ferritina periódica a cada 3 a 6 meses. O acompanhamento neurológico permanece recomendado diante do histórico de AVC, com avanços na reabilitação motora e cognitiva que devem ser valorizados na próxima consulta de rotina. O paciente recebeu orientações sobre sinais de alerta neurológico e orientação de pronto atendimento, caso haja novo episódio de déficit focal. O time de enfermeira(o)s reforçou a importância da adesão a exames laboratoriais e à dieta hipoproteica com manejo de ferro.
+
+A função renal permanece estável, com cr 0,9 mg/dL e creatinina mantida no patamar anterior, sem alterações na micção, sem edema, sem alterações de balanço hidroeletrolítico. A avaliação de proteínas urinárias permanece sem evidência de dano renal significativo até o momento, corroborando o quadro de albuminúria negativa na última análise. Conclui-se que a paciente/cliente encontra-se elegível para manter seguimento ambulatorial com ajuste terapêutico conforme necessidade, e com ênfase na observação de alterações no estado neurológico, na evolução da ferritina e na resposta clínica geral.
+
+Plano:
+
+- Manter a continuidade da quelação com deferasirox, com monitorização de ferritina, transaminases e função renal; ajuste de dose conforme guidelines locais e tolerabilidade.
+- Realizar ecocardiograma de pulso e avaliação de vasos cerebrais de forma periódica dado o histórico de AVC e risco vascular.
+- Reforçar a adesão à hidratação adequada, alimentação balanceada e controle de infecções; aplicação de vacinas conforme protocolo institucional.
+- Agendar consulta de retorno em 8 a 12 semanas para reavaliação clínica, com repetição de CBC, ferritina, Cr e função hepática.
+- Reforçar a comunicação entre a equipe de hematologia, neurologia e enfermagem para monitoramento de potenciais efeitos colaterais de imunossupressores.

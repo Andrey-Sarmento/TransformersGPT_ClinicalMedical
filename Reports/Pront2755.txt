@@ -1,0 +1,25 @@
+Paciente masculino, 34 anos, encaminhado pelo ambulatório de hematologia para avaliação de adapter de regime transfusional. História prévia sem doenças crônicas relevantes fora do que consta abaixo; aderência ao tratamento atual é boa, com consultas quinzenais. Na avaliação clínica atual, o estado geral está estável, com hematopoiese sob controle parcial e vigilância de ferro. No decorrer dos últimos 12 meses, o usuário já realizou transfusão crônica em intervalos de 3 a 6 semanas, conforme protocolo institucional, e permanece em acompanhamento com função renal estável, enzimas hepáticas dentro da faixa de referência para idade. Em consulta recente, houve ajuste de dose de suporte nutricional e avaliação de linha dedicada para apoio à diurese, com orientação sobre ingestão de líquidos e baixo teor de sódio. A comunicação com o paciente é frequente, via teleconsulta, com ênfase em adesão a exames laboratoriais e à terapêutica de fundo.
+
+A história clínica não aponta diagnóstico de doença falciforme (SCd) nem de anemias hereditárias associadas. A cada retorno, o resultado do CBC é comparável ao anterior, com hemoglobina flutuando entre 10,8 e 11,4 g/dL; o hematócrito fica em torno de 33 a 34%. As contagens de plaquetas permanecem estáveis, com médias entre 210 e 240 mil/mm3; leucócitos com variação discreta, sem sinais de infecção. Em termos de marcadores de ferro, a ferritina está elevada, situando-se entre 900 e 1.400 ng/mL, sugerindo acúmulo por transfusões crônicas. O metabolismo de ferro é monitorado? Sim, permanece sob vigilância clínica, sem uso de quelantes no momento, conforme indica a etiqueta clínica. A eletrólise de cobre, cálcio e fósforo encontra-se estável. Os níveis de creatinina são baixos, com clearance estimado adequado para a idade, e não há alteração da função renal observada nos últimos exames. As transaminases estão levemente elevadas, sem evidência de lesão aguda. O paciente mantém orientação sobre alimentação balanceada, com ênfase em proteínas magras, calorias adequadas e ingestão de água ao longo do dia.
+
+A avaliação de risco cardiovascular não aponta eventos prévios de alto risco espiritual nem de doença cardíaca estrutural; a função do sistema renal está preservada, sem proteinúria importante. A avaliação de compatibilidade para eventuais posições de tratamento é reiterada em cada encontro.
+
+A cada atendimento, reforço de adherência ao regime de acompanhamento. O paciente está ciente de que, se for necessária intervenção cirúrgica, o plano será ajustado com base em resultados laboratoriais e em disponibilidade de hemocomponentes. Em relação à disponibilidade de acessos venosos, foi mantido o acesso atual com monitorização de pontos de punção para evitar falhas de coleta e infecção. A comunicação com a equipe envolve atualização de contatos, feedback sobre sintomas de hipotensão, tontura ou cefaleia, bem como orientação sobre sinais de alerta que justifiquem avaliação emergencial.
+
+A doença falciforme (SCd) não está diagnosticada. O paciente nunca esteve internado durante este acompanhamento. Não houve ato operatório até o presente momento. Não há quelação em uso. O paciente está em transfusão crônica desde o último ano, com ajustes de protocolo. Não foi realizada urinálise com medida de albumina neste retorno. (sem informações) 
+
+As informações de urinalise com albumina não constam neste momento; manteremos registro de ACR quando disponível. 
+
+Resumo laboratorial recente (data ficta, 30 dias antes da consulta):
+- CBC Hb 11,2 g/dL; Hct 33,5%; RBC 4,3x10^6/µL; MCV 87 fL; RDW 13,2%.
+- Ferro: ferritina 1.150 ng/mL; ferro sérico 110 µg/dL; TIBC 260 µg/dL.
+- CMP: albumina 4,2 g/dL; ALT 28 U/L; AST 32 U/L; Cr 0,9 mg/dL; eGFR estimado 95 mL/min/1,73 m^2.
+- Infeção/profilaxia PCR 3,2 mg/L; leucócitos 6,4 x10^3/µL; plaquetas 225 x10^3/µL.
+
+Plano terapêutico:
+- Continuidade da transfusão crônica com monitoramento de ferritina e potencial planejamento de quelação futura, conforme resposta clínica e ferritinemia; a quelação não está em uso no momento. 
+- Dieta hipercalórica com aporte proteico adequado, água livre de restrições severas, e reposição de eletrólitos conforme necessidades de aporte diário.
+- Educação sobre sinais de complicação: dor lombar, edema acentuado, febre alta, tontura persistente, ou sangramento inesperado, que demandem avaliação rápida. 
+- Planejamento de exames de rotina em 3 meses, com repetição de CBC, ferritina, função renal e enzimas hepáticas.
+
+Observação: a narrativa aqui é de caráter técnico, com linguagem clínica, e utiliza siglas para maior densidade terminológica, mantendo coesão temporal entre as avaliações. O tom é essencialmente clínico, com parágrafos curtos e alternância de conectivos para evitar repetição. A primeira menção de termos está alternada entre termo (sigla) e sigla (termo) para cumprir a variação de estilo solicitada, mantendo coesão entre as ideias. A condução geral permanece compatível com um fluxo de acompanhamento de paciente em programa de transfusão crônica, sem diagnóstico de doença falciforme, sem histórico de internações ou cirurgias, e sem uso atual de quelantes de ferro.

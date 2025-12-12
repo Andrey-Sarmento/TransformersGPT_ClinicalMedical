@@ -1,0 +1,17 @@
+O paciente deu entrada no hospital apresentando sintomas relacionados à anemia crônica. A história clínica indica que ele está em tratamento para a anemia falciforme, já que foi confirmada a presença dessa condição genética. class:tem_doenca_falciforme
+
+Nos últimos anos, o paciente não foi submetido a internações hospitalares, mantendo um bom controle de sua condição através de visitas regulares ao ambulatório. class:teve_internacoes Durante a consulta, foi questionado sobre a realização de procedimentos cirúrgicos recentes e o histórico foi negativo. class:procedimento_cirurgico
+
+Foi realizado um transplante de medula óssea (TMO) há cerca de dois anos, o que melhorou significativamente sua qualidade de vida e reduziu a necessidade de transfusões constantes. class:transplante_medula_ossea Após o TMO, o paciente iniciou o monitoramento da função imunológica e apresenta bom estado geral.
+
+Ele está sendo acompanhado com a administração de quelantes de ferro devido à necessidade anterior de múltiplas transfusões sanguíneas. O tratamento inclui a utilização do deferasirox, que tem sido bem tolerado e eficientemente reduzido os níveis de ferro no organismo do paciente. class:quelantes_de_ferro
+
+Não foram realizados exames de urinalise com albumina medida para avaliação de função renal até o presente momento.
+
+O paciente estava anteriormente em terapia transfusional crônica, mas após o sucesso do TMO, essa necessidade foi eliminada. class:terapia_transfusional_cronica A função hematológica está estável, e não há sinais de complicações como infecções ou rejeição do enxerto.
+
+Não houve histórico de acidente vascular cerebral ou infarto, e o paciente permanece sob vigilância para fatores de risco vasculares. class:avc_infarto Ele mantém uma dieta equilibrada e um regime de exercícios leves para suportar a saúde cardiovascular.
+
+Os acompanhamentos são feitos mensalmente, com atenção especial aos níveis de ferritina e outros marcadores relevantes para garantir que a condição se mantenha controlada.
+
+O suporte multidisciplinar, incluindo hematologistas e nutricionistas, é parte do plano de tratamento do paciente, buscando sempre melhorar sua qualidade de vida.

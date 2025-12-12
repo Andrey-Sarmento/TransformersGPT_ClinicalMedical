@@ -1,0 +1,41 @@
+Paciente feminino/adulto, encaminhado para hematologia com histórico de Doença Falciforme e manejo ambulatorial. A consulta atual descreve crônica apoio clínico sem episódios agudos que justificassem internação recente. O estilo é clínico, com linguagem objetiva, sinais vitais estáveis, e planejamento de acompanhamento com foco na prevenção de crises vaso-oclusivas, adesão a esquema preventivo e monitorização laboratorial. A evolução foi dividida em narrativa contínua, sem seções formais, mantendo tom técnico mas com fluidez de leitura.
+
+A primeira descrição clínica remete ao diagnóstico clássico de HbS com expressão clínica típica de SCD, já apresentado anteriormente como Doença Falciforme (HbS). HbS (hemoglobina S) é o principal determinante da síndrome; no quadro atual, o paciente não apresenta ectasia hepática ou esplenomegalia de maior expressão. Observa-se anemia crônica moderada, com hemoglobina ao redor de 9,5 a 10,5 g/dL em séries laboratoriais recentes, reticulócitos levemente elevados, sugerindo eritropoiese compensatória. HbS, HbSS e termos correlatos são lembrados de forma reiterada no prontuário para manter clareza diagnóstica. Diagnóstico confirmado de doença falciforme.
+
+No histórico de internações, não houve admissão recente nem nos últimos doze meses; a paciente não apresenta quadro de internação aguda pública ou privada nessa janela temporal. História de internações.
+
+Em termos de procedimentos cirúrgicos, houve registro de intervenção cirúrgica prévia, sem complicações significativas no período remoto; a mulher evoluiu, após a cirurgia, com recuperação adequada e sem necessidade de repetições de hospitalização. Histórico de procedimento cirúrgico.
+
+O tema de transplante de medula óssea permanece sem informação no prontuário; não há menção direta a TMO/HSC, alo-TMO ou qualquer indicação de imunossupressão de alto nível associada a transplante no momento. Transplante medula ossea: sem informacao (não mencionado explicitamente no texto para evitar suposições).
+
+Sobre quelantes de ferro, não há uso atual nem histórico de quelação no decurso do manejo. Uso de quelantes de ferro.
+
+Em relação à urinálise com medida de albumina, não houve detecção de albuminúria relevante ou necessidade de monitorização específica nesse momento. Avaliação de albuminúria não está indicada: urinalyse_com_albumina_medida.
+
+Quanto à terapia transfusional crônica, não está em curso e não houve protocolo de transfusão crônica. Programa de transfusão crônica.
+
+O histórico de AVC/infarto não é favorável a manifestação clínica de acidente vascular cerebral ou infarto cardíaco nos episódios do paciente; não há antecedente nem evento ativo nesse sentido. Risco de AVC/infarto.
+
+No que tange a dados laboratoriais, repetidamente se observa um padrão de anemia de etiologia hemolítica crônica, com marcadores inflamatórios normais entre as visitas, função renal estável, e creatinina de base dentro do intervalo. O quadro hematológico envolve HbS em circulação, com leve reticulocitose, sem sinais de falência orgânica. Embora o manejo de SCD varie conforme clínica, o equilíbrio atual favorece vigilância clínica com vida diária sem necessidade de hospitalização, mantendo a adesão ao regime preventivo e às vacinas de rotina.
+
+Atenção à organização familiar: há suporte social moderado, com encaminhamentos para serviços de assistência social quando possível. A alimentação está estável, com dieta hipossaída de metais pesados, e o sono é regular. O controle de dor é feito com analgesia oral de forma escalonada, com boa resposta ao manejo conservador. Em termos de vigilância, é mantido acompanhamento com hematologia a cada 3 a 6 meses, com exames de hemograma completo, reticulócitos, ferritina e função renal.
+
+O paciente demonstra boa compreensão sobre a natureza crônica da doença, a importância da hidratação adequada, a evitação de temperaturas extremas e o reconhecimento de crises vaso-oclusivas. Existe reforço de hábitos de saúde, com ênfase na vacinação, prevenção de infecções por encapsulados e manejo de fatores precipitantes de dor. A comunicação com a equipe hematológica permanece clara, com a paciente solicitando ajuste de analgesia quando necessário e comparecimento regular aos retornos.
+
+A conduta atual privilegia a continuidade do acompanhamento ambulatorial, com ênfase no monitoramento hematológico periódico, avaliação de ferritina quando houver necessidade clínica e observação de sinais que possam indicar complicações. Observa-se, portanto, a linha de cuidado estável, sem internação, sem indicação de quelação no momento, e sem indicação de transformação para intervenções invasivas. Diagnóstico de doença falciforme permanece ativo, com cuidado protocolar de rotina. Diagnóstico de doença falciforme com plano terapêutico conservador é mantido, e o atendimento segue com foco na qualidade de vida do paciente, na prevenção de crises e na monitorização de parâmetros laboratoriais críticos.
+
+S1. Diagnóstico Doença Falciforme (HbS) em curso, com manejo ambulatorial. HbS (hemoglobina S) está presente e SCD é o diagnóstico correspondente. HbS (hemoglobina S) aparece também no texto para reforçar o histórico. HbS HbSS compõem o perfil do quadro.
+
+S2. Histórico: sem internações recentes, sem instituir internamentos no último ano, com comportamento clínico estável e função renal preservada. Histórico de internações: teve_internacoes.
+
+S3. Procedimento: cirurgia anterior registrada; a evolução pósoperatória foi estável, sem complicações sistêmicas. Procedimento cirúrgico: sim.
+
+S4. Quelação: não há indicação de quelação no momento, sem uso atual de quelantes. Quelantes de ferro: nao.
+
+S5. Urinálise: não houve necessidade de avaliação de albuminúria neste momento, sem monitorização adicional. Urinálise com albumina medida: nao.
+
+S6. Transfusão: não há programa de transfusão crônica, acompanhamento hematológico sem necessidade de transfusão de sangue actualmente. Terapia transfusional crônica: nao.
+
+S7. AVC/Infarto: não houve evento de AVC ou Infarto; risco não elevado à data. AVC/infarto: nao.
+
+Plano: manter retorno hematológico com monitorização de hemoglobina, reticulócitos, ferritina apenas se houver indicação. Incentivar hidratação, evitar crises por estresse térmico e conhecer sinais de crise. Continuar com vacinação em dia, avaliação nutricional, e orientação de estilo de vida para reduzir fatores precipitantes. Encaminho para suporte social conforme necessidade, com reavaliação a cada 3 a 6 meses.

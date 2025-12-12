@@ -1,0 +1,31 @@
+Paciente pt-br-hematológico, corpo clínico do serviço de heme-oncologia, com evolução cronológica do acompanhamento e exames de rotina. S: o paciente refere-se a bom estado geral, sem queixas agudas no momento. Nega febre, diarreia ou dor súbita. Sigo com dados laboratoriais periódicos e com histórico de intervenções relevantes. Não há diagnóstico prévio de doença falciforme. Não há histórico de AVC ou infarto na vida adulta, o que orienta a curva clínica atual. Não há queixas de sangramento espontâneo das mucosas, e o uso de medicações crônicas é minimamente invasivo.
+
+Não há histórico de doença falciforme no prontuário;.
+
+O paciente foi internado anteriormente, com internações importantes em fases distintas da trajetória, o que justificou monitorização cuidadosa. O registro mostra episódios de hospitalização que demandaram monitorização de anemia, dehemodinâmica e de suporte transfusional, com início em fases anteriores à alta. O histórico de internações compõe o eixo temporal da avaliação, embora a condição de base atualmente esteja estável. O quadro atual é de reforço terapêutico com foco em função renal estável e resposta adequada aos esquemas de prevenção de complicações. O histórico de internações é relevante para planejamento de seguimento, com reavaliação da necessidade de exames periódicos e de eventual intensificação de monitorização.
+
+O paciente tem história de internações, com admissão em 2019 e 2022, conforme registro hospitalar;.
+
+Ao longo da vida clínica constam intervenções cirúrgicas de relevância, incluindo uma cirurgia sólida com indicação hepatobiliar há alguns anos. A intervenção de colecistectomia foi realizada em contexto de dor abdominal biliar, evoluindo sem complicações amplas no pós-operatório. A evolução clínica desde a cirurgia tem sido estável, com recuperação funcional adequada. Esse procedimento cirúrgico mantém-se descrito no histórico, influenciando o planejamento de futuras avaliações cirúrgicas e de nutrição, bem como o controle de dor em eventos agudos. A documentação cirúrgica indica que houve tempo de recuperação com acompanhamento neurológico e metabólico compatível com o esperado.
+
+Realizou procedimento cirúrgico de colecistectomia laparoscópica em 2017;.
+
+O que diz respeito à intervenção de transplante de medula óssea, há registro de um TCTH (HSCT) previamente realizado, o que molda a função imune e o manejo de transfusões. O período de imunossupressão pós-TMO se estenderá por acompanhamento, com vigilância de infeções oportunistas, função renal e marcadores inflamatórios. O histórico de HSCT é parte integrante do plano terapêutico, influenciando escolhas farmacológicas e o monitoramento de cargas de ferro e de vírus reativados. A presença de um transplante de medula óssea amplia a necessidade de acompanhamento imunológico e de vigilância clínica contínua. A equipe de enfermagem orienta reduções graduais de corticóides conforme o protocolo institucional, com atenção para efeitos adversos a longo prazo.
+
+Transplante de células-tronco hematopoéticas (TCTH) realizado em 2014;.
+
+Nas avaliações laboratoriais recentes, a função renal e o equilíbrio hemodinâmico permanecem estáveis, com atendimento periódico à microalbuminúria. A Strutura atual exige monitoramento da relação albumina/creatinina para detecção de ACR, com foco na proteção renal. A equipe recomenda continuidade de monitorização com EAS, creatinina, potássio e glicose, observando possíveis alterações que justifiquem ajuste dietético ou de medicação. O atendimento multidisciplinar continua a revisar o uso de suplementos hidroeletrolíticos, com ênfase em controle de pressão arterial e adesão terapêutica.
+
+UACR medido com albumina de 28 mg/g, referente à microalbuminúria;.
+
+A prática clínica atual não explicitou a necessidade de terapia transfusional crônica, tampouco quelação de ferro no momento, permanecendo em observação conforme os resultados de ferritina, ferritina essa que não está detalhadamente descrita neste relatório. A conduta é pautada pela vigilância laboratorial periódica e pela atuação clínica diante de variações de hemoglobina, sem ascensão abrupta de ferritina que demandasse intervenção imediata. O planejamento é de reavaliação a cada trimestre, com ajuste de conduta caso haja necessidade.
+
+Os dados de laboratório não se apresentam com dinâmica de transfusão crônica neste momento, mantendo o foco no monitoramento habitual. A conduta do serviço é manter o planejamento de avaliação de ferritina e de função hepática, sem alterações agressivas no momento, com possível ajuste terapêutico se necessário.
+
+Não houve episódio de AVC/infarto na história clínica;.
+
+A partir da linha do tempo, observa-se que a clínica permanece estável, com apoio de Hb estimado moderado e RBC adequados para a faixa etária. O regime de medicações de base inclui farmacologia com interação mínima entre antianêmicos e antibióticos, mantendo a adesão do paciente a exames de rotina e vacinação conforme diretrizes. A observação clínica atual não revela sinais de crises vaso-oclusivas recentes nem necessidade de medidas de emergência, o que reforça o acompanhamento de rotina em serviço de heme-oncologia.
+
+Sinais vitais estáveis; FC 72 bpm, PA 118/72 mmHg, peso estável, sem alterações significativas de diurese. O almoço recente foi adequado, com reposição fluida conservadora e monitorização de balanço hídrico. O acompanhamento é orientado por hematologia/nefro, com suporte de enfermagem e nutrição, visando manter a qualidade de vida e a função renal preservada.
+
+Resumo clínico: paciente com histórico de internações, com cirurgia prévia e transplante de medula óssea, apresentando microalbuminúria leve e ausência de AVC/infarto na história. A vigilância clínica permanece alinhada a um manejo conservador, com reavaliação de ferritina, função renal e imunossupressão conforme o protocolo institucional. A cada consulta, o time reinicia a avaliação de adesões terapêuticas, sinais de infecção oportunista e condutas de suporte nutricional, mantendo o objetivo de evitar complicações hematológicas graves.

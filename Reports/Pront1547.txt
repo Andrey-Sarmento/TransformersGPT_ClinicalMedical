@@ -1,0 +1,28 @@
+Paciente do sexo masculino, 32 anos, acompanhado no ambulatório de transplante e hematologia de perfil médio, com histórico de HSCT recente há alguns anos e continuidade de quelação de ferro por sobrecarga previa. A clínica atual descreve um estado estável, com função renal preservada, sem sintomas neurológicos agudos, sem evidência de AVC/infarto, e com adesão ao regime de quelantes de ferro. O serviço de hematologia observa, na última avaliação de rotina, boa recuperação da imunidade inata e linfóide, sem sinais de GVHD ativo. Hb e outros parâmetros sanguíneos estão estáveis, sem necessidade de transfusões crônicas, conforme a linha do prontuário. Na história, não há internações recentes, e não foram relatados procedimentos cirúrgicos no último ano. O paciente relata adesão adequada ao tratamento, com poucos efeitos adversos relatados até o momento. A avaliação de órbita metabólica revela ferritina persistentemente elevada, mas com resposta clínica favorável sob quelação com deferasirox, mantendo vigilância anual de ferritina, ferritina de referência, e ferrimetria.
+
+No histórico pré-transplante, o paciente apresentava doença hematológica compatível com quadro que levou ao TMO, com indicação clínica explicita para transplante de células-tronco hematopoéticas (HSCT/TCTH). Após o TMO, manteve-se em regime imunossupressor por período adequado, com liberação gradual de envolvimento GVHD, e atual estágio de reabilitação medular. Em relação à alimentação, o paciente mantém dieta regular, sem restrições relevantes, com boa aceitação oral e manutenção de peso estável. O acompanhamento laboratorial tem mostrado ferritina de alto valor, o que justifica o uso de quelantes de ferro; o esquema atual envolve a droga deferasirox, com monitorização de função hepática, renal e da necrólise mitocondrial associada a uso de quelantes, mantendo dose ajustada conforme resposta de ferritina e tolerância. A função renal permanece em faixa normal, com microalbuminúria não mensurada de forma rotineira, pois não houve indicação clínica de avaliação de albuminúria de forma sistemática no contexto atual. A condição clínica não sugere necessidade de reposição de eritrocito ou de eritrocitoaferese neste momento, uma vez que não houve transfusão crônica e o hemograma acompanha dentro da faixa esperada para o pós-TMO. Na avaliação atual, tem_doenca_falciforme. O diagnóstico de SCD não consta do atual conjunto de informações; a sigla Hb não se aplica ao quadro em curso, que é de HSCT por outra indicação, sem relação com DREPANOCITOSE.
+
+O registro de atendimento não mostra internações anteriores; teve_internacoes. O paciente teve apenas consultas de seguimento ambulatorial, sem admissão hospitalar recente, mantendo-se em regime de monitorização hematológica.
+
+Até o momento, não houve procedimento_cirurgico; não houve ato cirúrgico recente; procedimento_cirurgico. O acompanhamento tem foco em manejo pós-TMO, com ênfase em imunossupressão minora e ajuste de terapia de ferro.
+
+História de TMO é positiva; transplante_medula_ossea. O HSCT está documentado como intervenção prévia bem-sucedida, com recuperação medular estável e sem sinais de rejeição aguda na última avaliação. A gestão pós-TMO inclui vigilância clínica e laboratorial, com ênfase em infecções oportunistas, função hepática e renal, além de monitorização da imunologia.
+
+Quelação de ferro em uso; quelantes_de_ferro. A terapia está associada à elevação de ferritina prévia, com resposta clínica favorável e adesão relatada. Deferasirox (Exjade, Jadenu) compõe o regime atual, com ajuste de dose conforme ferritina, fator de risco hepático e renal; a monitorização de FE permanece peça central do acompanhamento.
+
+Nível de albuminúria não mensurado; urinalise_com_albumina_medida. A medida de relação albumina/creatinina não foi solicitada na janela atual de consulta; não houve alterações nos dados de função renal aparentes.
+
+Não há programa de transfusão crônica; terapia_transfusional_cronica. Não foi instituída transfusão de manutenção; o hematologista continua revisando necessidade de estratificação de ferritina e de ferro livre, mas não está prevista RBC exchange no momento.
+
+Não houve AVC/infarto; avc_infarto. Não houve derrame ou infarto cerebral na história recente, e o paciente permanece sem déficits neurológicos. A vigilância neuroclínica segue com foco em sinais precoces, sem ocorrências até a data.
+
+O prontuário descreve, de modo geral, boa resposta à quelação; Hb permanece estável, com HbA/ HbF em equilíbrio, e com boa tolerância a deferasirox, sem alterações de peso significativas. A imunologia está sob controle com manejo farmacológico que evita rejeição e infecções graves; o paciente informa boa adesão ao regime medicamentoso, com consultas de rotina a cada 3 a 6 meses. No aspecto ocupacional, o paciente mantém atividade moderada, sem restrições, com planejamento de retorno gradual a atividades que exijam esforço físico. As condutas médicas seguem orientadas para manter a função medular, controlar ferritina e monitorar a função hepática, renal e hematológica, com ajuste fino da terapia de ferro conforme evolução clínica.
+
+S1 Na avaliação atual, tem_doenca_falciforme.
+S2 O prontuário não registra internações recentes; teve_internacoes.
+S3 Até o momento, não houve procedimento_cirurgico recente; procedimento_cirurgico.
+S4 Histórica de TMO no passado, transplante_medula_ossea.
+S5 A quelação de ferro está indicada e está em uso; quelantes_de_ferro.
+S6 Não foi realizada medição de UACR/albuminúria recentemente; urinalise_com_albumina_medida.
+S7 Não existe programa de transfusão crônica; terapia_transfusional_cronica.
+S8 Não houve AVC/infarto cerebral até o presente; avc_infarto.
